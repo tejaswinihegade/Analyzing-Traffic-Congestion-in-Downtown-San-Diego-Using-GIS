@@ -1,4 +1,4 @@
-# Analyzing-Traffic-Congestion-in-Downtown-San-Diego-Using-GIS
+# Analyzing Traffic Congestion in Downtown San-Diego Using ArcGIS Pro
 
 ## Introduction
 Traffic congestion is a persistent challenge in urban areas, affecting daily commutes, air quality, and economic productivity. As a graduate student in Construction Engineering with a strong interest in traffic engineering, I explored this issue through a project that leveraged Geographic Information Systems (GIS) to analyze traffic congestion in Downtown San Diego, identify key contributing factors, and propose data-driven solutions for improving mobility.
